@@ -14,6 +14,7 @@ import CenterCards2 from '../components/CenterCards2';
 import img7 from '../assets/global.png'
 import img8 from '../assets/call.png'
 import img9 from '../assets/branch.png'
+import Footer from '../components/Footer';
 
 const Home  = () => {
     return ( <>
@@ -63,7 +64,7 @@ const Home  = () => {
     </section>
     
     <footer>
-        
+        <Footer />
     </footer>
     
     </>);

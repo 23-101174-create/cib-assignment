@@ -20,7 +20,7 @@ body{
     justify-content: center;
     align-items: center;
     gap: 50px;
-    background-color: #FAFAFA;
+    background-color: #f5f5f5;
 }
 .title-box{
     display: flex;
@@ -64,5 +64,5 @@ body{
     justify-content: center;
     align-items: center;
     gap: 50px;
-    background-color: #FAFAFA;
+    background-color: #ffff;
 }
