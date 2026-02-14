@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
 import "./SectionTitle.css";
 
-const SectionTitle = () => {
+const SectionTitle = ({text}) => {
     return (
-        <p className='title'> Sustainability is an integral part of the way we
-work </p>
+        <p className='title'>{text}</p>
     )
 }
 

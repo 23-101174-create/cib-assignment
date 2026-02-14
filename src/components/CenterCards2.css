@@ -1,0 +1,42 @@
+.card2 {
+    display: flex;
+    width: 369px;
+    height: 203px;
+    padding: 28px 23px 28px 22px;
+    flex-direction: row;
+    gap: 30px;
+    border-radius: 6px;
+    border-top: 1px solid rgba(231, 231, 231, 0.60);
+    background: #FFF;
+    box-shadow: 0 1px 1px 2px rgba(0, 0, 0, 0.10);
+    justify-content: center;
+    align-items: flex-start;
+}
+  
+.card2 img {
+    display: block;
+    margin: 0 auto;
+}
+  
+.card2 .cardparagraph {
+    color: #333;
+    width: 230px;
+    font-family: "Inter";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px; 
+    text-align: start;
+}
+.card2 p{
+    color: #1858A8;
+    font-family: "Inter";
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 26px;
+}
+.cards-box-text{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+}
